@@ -1,10 +1,10 @@
 ---
-title: "My First Blog Post"
+title: "My Econd Blog Post"
 date: "2025-02-06"
 excerpt: "This is my very first blog post on this site."
 ---
 
-# Welcome to My First Blog!
+# Welcome to My 2nd Blog!
 
 This is where I can write my first post using Markdown. It’s super simple and easy.
 
