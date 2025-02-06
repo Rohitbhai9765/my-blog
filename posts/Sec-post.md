@@ -1,5 +1,5 @@
 ---
-title: "My Econd Blog Post"
+title: "My Second Blog Post"
 date: "2025-02-06"
 excerpt: "This is my very first blog post on this site."
 ---
