@@ -19,6 +19,3 @@ I shall be telling this with a sigh Somewhere ages and ages hence: Two roads div
 ---Excerpt from 'Quantum Supremacy' by Michio Kaku 
 
 
-```js
-const greeting = "Hello, world!";
-console.log(greeting);
