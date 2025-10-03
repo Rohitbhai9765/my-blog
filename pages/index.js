@@ -11,7 +11,7 @@ export async function getStaticProps() {
 export default function Home({ allPostsData }) {
     return (
         <div>
-            <h1>Blogs by RSB</h1>
+            <h1>Blogs by Rohit SB</h1>
             <ul>
                 {allPostsData.map(({ id, title, date, excerpt }) => (
                     <li key={id}>
